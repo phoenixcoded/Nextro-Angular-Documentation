@@ -1,23 +1,32 @@
-# Initial page
+---
+description: Nextro - Angular 8+ Bootstrap 4 Admin Dashboard Template
+---
 
-## Getting Super Powers
+# Introduction
 
-Becoming a super hero is a fairly straight forward process:
+**Nextro** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Nextro is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
 
-```
-$ give me super-powers
-```
+**Author** : Phoenixcoded   
+**Support**:  [https://phoenixcoded.ticksy.com/](https://phoenixcoded.ticksy.com/)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## Features 
 
-Once you're strong enough, save the world:
+* Fully Responsive Layout 
+* 2 Dashboard, 400+ Widget Cards
+* SASS Powered
+* 180+ Pages
+* Workable Application
+* Live Menu Customize
+* 6 months of free support included
+* Easy to Build and Setup
+* Clear Cut Code style
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+## Specification
 
-
+* Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
+* [SASS ](https://sass-lang.com)Powered
+* [NodeJs](https://nodejs.org/en/) \(v12.x.x\)
+* [Angular CLI](https://cli.angular.io/) 8.0.6
+* [NgBootstrap](https://ng-bootstrap.github.io/#/home) 5.0.0
+* [npmJs ](https://www.npmjs.com/)Third Party Modules 
 

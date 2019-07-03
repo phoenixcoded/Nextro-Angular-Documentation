@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Quick Installation](quick-installation.md)
+* [File Structure](file-structure.md)
+* [Page Structure](page-structure.md)
 
