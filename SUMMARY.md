@@ -7,4 +7,6 @@
 * [Theme Configuration](theme-configuration.md)
 * [Theme Layouts](theme-layouts.md)
 * [Third Party Modules](third-party-modules.md)
+* [Support](support.md)
+* [Changelog](changelog.md)
 
