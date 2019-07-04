@@ -2,9 +2,11 @@
 description: Menu/Layout Customize Options
 ---
 
-# Theme Configuration
+# Template Configuration
 
-You can edit this file at **\[ ../src/app/app-config.ts \]**
+{% hint style="info" %}
+You can edit this file at **`[ ../src/app/app-config.ts ]`**
+{% endhint %}
 
 | **Option** | **Default** | **Data Type** | **Description** |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +14,7 @@ You can edit this file at **\[ ../src/app/app-config.ts \]**
 | **subLayout** | - | String | `horizontal-2` \(only used for layout is horizontal\) |
 | **collapseMenu** | false | Boolean | `true`, `false` |
 | **layoutType** | menu-dark | String |  `menu-dark`, `menu-light`, `dark` |
-| **headerBackColor** | header-default | String |   `header-default`, `header-blue`, `header-red`, `header-purple`, `header-info`, `header-dark` |
+| **headerBackColor** | header-default | String | `header-default`, `header-blue`, `header-red`, `header-purple`, `header-info`, `header-dark` |
 | **navBrandColor** | brand-default | String |  `navbar-default`, `navbar-blue`, `navbar-red`, `navbar-purple`, `navbar-info`, `navbar-dark` |
 | **rtlLayout** | false | Boolean | `true`, `false` |
 | **navFixedLayout** | true | Boolean | `true`, `false` |

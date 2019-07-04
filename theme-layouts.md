@@ -2,13 +2,17 @@
 description: Layout Variants
 ---
 
-# Theme Layouts
+# Layouts Options
+
+{% hint style="info" %}
+You can edit this file at **`[ ../src/app/app-config.ts ]`**
+{% endhint %}
 
 ## Main Layouts
 
 {% tabs %}
 {% tab title="Default / Vertical" %}
-* layout: `horizontal`
+* layout: `vertical`
 * subLayout: ' '
 * collapseMenu: `false`
 * layoutType: `menu-light`
