@@ -22,7 +22,7 @@ description: Nextro - Angular Admin Template Documentation
 
 ## Specification
 
-* [Angular CLI](https://cli.angular.io/) 8.0.6
+* [Angular CLI](https://cli.angular.io/) 8.3.2
 * Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
 * [SASS ](https://sass-lang.com)Powered
 * [NodeJs](https://nodejs.org/en/) \(v12.x.x\)

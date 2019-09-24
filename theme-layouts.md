@@ -16,7 +16,8 @@ You can edit this file at **`[ ../src/app/app-config.ts ]`**
 * subLayout: ' '
 * collapseMenu: `false`
 * layoutType: `menu-light`
-* headerBackColor: `header-blue`
+* headerBackColor: `header-default`
+* navBrandColor: `brand-blue`
 * rtlLayout: `false`
 * navFixedLayout: `true`
 * headerFixedLayout: `true`
